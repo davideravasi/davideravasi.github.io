@@ -1,0 +1,11 @@
+{
+   "applinks": {
+     "apps": [],
+     "details": [
+       {
+         "appID": "S6K9HXZKUK.com.companyname.deeplinker",
+         "paths": [ "*" ]
+       }
+     ]
+   }
+}
