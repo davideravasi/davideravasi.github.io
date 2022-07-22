@@ -1,2 +1,2 @@
 # UniversalDeepLinks
-Testing Universal Deep Links in Xamarin Forms
+Setting up Universal Deep Linking for Android/Ios
